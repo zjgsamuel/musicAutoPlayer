@@ -38,11 +38,11 @@ sudo vi /etc/fstab
 /dev/mmcblk0p1   /home/linaro/Music   vfat   user,rw,utf8,umask=000   1 2
 
 8. 编辑播放脚本及文件名空格处理  
-sudo vi /usr/local/bin/playmusic.sh  
-sudo vi /usr/local/bin/playring.sh  
+sudo vi /usr/local/bin/playMusic.sh  
+sudo vi /usr/local/bin/playRing.sh  
 sudo vi /usr/local/bin/deleteSpace.sh  
-sudo chmod u+x  /usr/local/bin/playmusic.sh  
-sudo chmod u+x  /usr/local/bin/playring.sh  
+sudo chmod u+x  /usr/local/bin/playMusic.sh  
+sudo chmod u+x  /usr/local/bin/playRing.sh  
 sudo chmod u+x  /usr/local/bin/deleteSpace.sh  
 
 9. 设定定时播放  
