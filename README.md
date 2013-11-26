@@ -7,7 +7,7 @@ http://liangzhdp.blogspot.com/2009/07/mplayer.html
 http://cb.e-fly.org/archives/debian-system-crontab.html  
 http://www.2cto.com/os/201305/215253.html  
 http://www.cnblogs.com/24la/archive/2013/01/28/2880768.html     
-http://forum.ubuntu.org.cn/viewtopic.php?p=1956262
+http://forum.ubuntu.org.cn/viewtopic.php?p=1956262  
 http://forum.cubietech.com/forum.php?mod=viewthread&tid=493  
 http://forum.cubietech.com/forum.php?mod=viewthread&tid=493&extra=page%3D2  
 http://forum.cubietech.com/forum.php?mod=viewthread&tid=1215&extra=page%3D1 
