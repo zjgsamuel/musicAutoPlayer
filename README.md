@@ -25,6 +25,7 @@ http://blog.csdn.net/jyoryo/article/details/9044103
 sudo apt-get install alsa-base alsa-utils alsa-lib-devel  
 sudo apt-get install aumix  
 sudo alsamixer  
+sudo vi /etc/asound.conf
 
 5. 安装音乐播放软件及设置  
 sudo apt-get install mplayer
