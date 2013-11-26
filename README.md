@@ -4,14 +4,13 @@ Cubieboard 在午休时间 11:30 ~ 12:30 自动播放音乐
  
 参考:  
 http://www.2cto.com/os/201305/215253.html  
-http://www.cnblogs.com/24la/archive/2013/01/28/2880768.html  
-http://forum.cubietech.com/forum.php?mod=viewthread&tid=493&extra=page%3D2  
-http://forum.cubietech.com/forum.php?mod=viewthread&tid=1215&extra=page%3D1  
-http://cb.e-fly.org/archives/debian-system-crontab.html  
-http://liangzhdp.blogspot.com/2009/07/mplayer.html  
-http://forum.cubietech.com/forum.php?mod=viewthread&tid=493  
 http://forum.ubuntu.org.cn/viewtopic.php?p=1956262  
-
+http://liangzhdp.blogspot.com/2009/07/mplayer.html  
+http://cb.e-fly.org/archives/debian-system-crontab.html  
+http://forum.cubietech.com/forum.php?mod=viewthread&tid=493  
+http://www.cnblogs.com/24la/archive/2013/01/28/2880768.html   
+http://forum.cubietech.com/forum.php?mod=viewthread&tid=493&extra=page%3D2  
+http://forum.cubietech.com/forum.php?mod=viewthread&tid=1215&extra=page%3D1 
 
 
 步骤如下：
