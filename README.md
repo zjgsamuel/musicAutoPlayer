@@ -24,7 +24,7 @@ http://blog.csdn.net/jyoryo/article/details/9044103
 locale  
 locale -a   
 
-	安装zh___CN.utf8  
+	安装zh_CN.utf8  
 cd /usr/share/locales  
 ls  
 sudo ./install-language-pack zh_CN  
@@ -33,7 +33,7 @@ sudo locale-gen --purge
 
   sudo vi /etc/default/locale  
 LANG="zh_CN.UTF-8"  
-LANGUAGE="zh___CN:zh"  
+LANGUAGE="zh_CN:zh"  
 LC_ALL="zh_CN.UTF-8"  
 
 4. 安装声卡驱动及音量控制及设置  
