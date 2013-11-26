@@ -20,7 +20,22 @@ http://forum.ubuntu.org.cn/viewtopic.php?p=1956262
 2. 设定时区及更新时间服务器  
 http://blog.csdn.net/jyoryo/article/details/9044103
  
-3. 更新中文文件名支持
+3. 更新中文文件名支持  
+locale  
+locale -a   
+
+	安装zh___CN.utf8  
+cd /usr/share/locales  
+ls  
+sudo ./install-language-pack zh_CN  
+sudo vi /var/lib/locales/supported.d/local  
+sudo locale-gen --purge  
+
+  sudo vi /etc/default/locale  
+LANG="zh_CN.UTF-8"  
+LANGUAGE="zh___CN:zh"  
+LC_ALL="zh_CN.UTF-8"  
+
 4. 安装声卡驱动及音量控制及设置  
 sudo apt-get install alsa-base alsa-utils alsa-lib-devel  
 sudo apt-get install aumix  
