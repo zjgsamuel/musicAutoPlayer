@@ -55,10 +55,8 @@ sudo vi /etc/fstab
 8. 编辑播放脚本及文件名空格处理  
 sudo vi /usr/local/bin/playMusic.sh  
 sudo vi /usr/local/bin/playRing.sh  
-sudo vi /usr/local/bin/deleteSpace.sh  
 sudo chmod u+x  /usr/local/bin/playMusic.sh  
 sudo chmod u+x  /usr/local/bin/playRing.sh  
-sudo chmod u+x  /usr/local/bin/deleteSpace.sh  
 
 9. 设定定时刷新网络时间及定时播放  
 sudo vi  /etc/crontab  
@@ -66,4 +64,5 @@ sudo /etc/init.d/cron restart
   
 
 
-Done Enjoy it...
+Done  
+Enjoy it...
